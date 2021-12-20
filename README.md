@@ -1,5 +1,8 @@
 # CS330-Final-Project
 Cigar
+![image](https://user-images.githubusercontent.com/61409173/146706479-85d56e7e-c953-48d8-b6bb-7600e8f5ba75.png)
+![image](https://user-images.githubusercontent.com/61409173/146706491-07f3bb1e-5507-42f7-9fa1-bf3b60058fa0.png)
+
 This project called for the recreation of a 2D scene with relatively simple geometry.  The picture of a cigar on an ashtray with a cup on a coaster met the requirement of being re-creatable with simple shapes while also making for an interesting picture.
 Four primitive shapes were to be used in the creation of this image.  My image includes these shapes:
 •	I used cylinders to make the cup, the cigar, and the ashtray.
